@@ -1,0 +1,10 @@
+import prod1 from "../images/shirt.jpg"
+import prod2 from "../images/shirt2.jpg"
+import prod3 from "../images/tshirt.jpg"
+import prod4 from "../images/tshirt2.jpg"
+import prod5 from "../images/tshirt3.jpg"
+import prod6 from "../images/kurti.jpg"
+import prod7 from "../images/jeansM.jpg"
+import prod8 from "../images/shorts.jpg"
+import logo from "../images/logo.png"
+export {prod1,prod2,prod3,prod4,prod5,prod6,prod7,prod8,logo}; 
